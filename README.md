@@ -18,13 +18,23 @@ A versão Community Edition é gratuita e suficiente para se preparar para o CCN
 ## EVE
 <p>LINK como o disk disponivel com tudo pronto para usar o eve-ng 
 <a href="https://mega.nz/file/WQ4QUYzS#rmG3LIjiZ77H86_VZPaFA93bdyBaQ2F_qoPNmwJo8B0"></a>Clique aqui.</p>
-Para executar o EVE-NG como uma máquina virtual no Windows ou Linux, você pode usar as seguintes opções:
+<ul>
+  <li><a href="https://www.vmware.com/go/downloadplayer">VMware ESXi</a>: Uma plataforma de virtualização que suporta o EVE-NG. Você pode baixar o VMware ESXi 6.7 ou posterior.</li>
+  <li><a href="https://www.vmware.com/go/downloadplayer">VMware Workstation</a>: Um software de virtualização para desktops. A versão 16.0 ou posterior é compatível com o EVE-NG.</li>
+  <li><a href="https://www.vmware.com/go/downloadplayer">VMware Fusion</a>: Uma opção para usuários de Mac. A versão 8 ou posterior do VMware Fusion é adequada para executar o EVE-NG.</li>
+  <li><a href="https://www.vmware.com/go/downloadplayer">VMware Player</a>: Uma alternativa gratuita ao VMware Workstation. A versão 16.0 ou posterior é compatível com o EVE-NG.</li>
+  <li>Google Cloud Platform VM: Se você preferir usar a nuvem, a Google Cloud Platform oferece suporte para executar o EVE-NG em uma máquina virtual na nuvem.</li>
+</ul>
 
-VMware ESXi: Uma plataforma de virtualização que suporta o EVE-NG. Você pode baixar o VMware ESXi 6.7 ou posterior1.
-VMware Workstation: Um software de virtualização para desktops. A versão 16.0 ou posterior é compatível com o EVE-NG1.
-VMware Fusion: Uma opção para usuários de Mac. A versão 8 ou posterior do VMware Fusion é adequada para executar o EVE-NG1.
-VMware Player: Uma alternativa gratuita ao VMware Workstation. A versão 16.0 ou posterior é compatível com o EVE-NG1.
-Google Cloud Platform VM: Se você preferir usar a nuvem, a Google Cloud Platform oferece suporte para executar o EVE-NG em uma máquina virtual na nuvem1
+Outras opções 
+
+<ul>
+  <li><a href="https://www.virtualbox.org/">VirtualBox</a>: Uma plataforma popular que permite criar e gerenciar várias máquinas virtuais. Suporta Windows, Linux e macOS.</li>
+  <li><a href="https://www.proxmox.com/proxmox-ve">Proxmox VE</a>: Oferece virtualização completa para Windows e imagens do Linux. Suporta armazenamento local, SAN, NAS e Ceph.</li>
+  <li><a href="https://xenproject.org/">Xen Project</a>: Um hypervisor de código aberto (tipo 1) que suporta vários sistemas operacionais.</li>
+  <li><a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation Player</a>: Permite executar sistemas operacionais isolados no Windows. Suporta mais de 200 sistemas, incluindo Windows, Ubuntu e Red Hat.</li>
+</ul>
+
 
 
 
