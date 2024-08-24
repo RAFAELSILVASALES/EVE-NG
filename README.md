@@ -16,8 +16,7 @@ A versão Community Edition é gratuita e suficiente para se preparar para o CCN
 <br/>
 
 ## EVE
-<p>LINK como o disk disponivel com tudo pronto para usar o eve-ng 
-<a href="https://mega.nz/file/WQ4QUYzS#rmG3LIjiZ77H86_VZPaFA93bdyBaQ2F_qoPNmwJo8B0"></a>Clique aqui.</p>
+<p>LINK como o disk disponivel com tudo pronto para usar o eve-ng </p> <a href="https://mega.nz/folder/OBgQlRCD#iozAom8OS0-vQyy5MfaH8Q" target="_blank">Acessar</a></p>
 <ul>
   <li><a href="https://www.vmware.com/go/downloadplayer">VMware ESXi</a>: Uma plataforma de virtualização que suporta o EVE-NG. Você pode baixar o VMware ESXi 6.7 ou posterior.</li>
   <li><a href="https://www.vmware.com/go/downloadplayer">VMware Workstation</a>: Um software de virtualização para desktops. A versão 16.0 ou posterior é compatível com o EVE-NG.</li>
