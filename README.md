@@ -2,18 +2,35 @@
 
 <img src="https://www.eve-ng.net/wp-content/uploads/2019/11/Screenshot-2019-11-14-at-13.25.02-e1593123597917.png" width="">
 
-EVE-NG (Emulated Virtual Environment Next Generation)
-O EVE-NG é um simulador de rede multi-vendor, semelhante ao VIRL Personal Edition. Ele foi desenvolvido para usuários finais e pequenas empresas. O EVE-NG oferece uma Community Edition gratuita, bem como uma Professional Edition por $110,75 por ano.
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVE-NG (Emulated Virtual Environment Next Generation)</title>
+</head>
+<body>
+    <h1>EVE-NG (Emulated Virtual Environment Next Generation)</h1>
+    <p>O <strong>EVE-NG</strong> é um simulador de rede multi-vendor, semelhante ao VIRL Personal Edition. Ele foi desenvolvido para usuários finais e pequenas empresas. O EVE-NG oferece uma <strong>Community Edition</strong> gratuita, bem como uma <strong>Professional Edition</strong> por $110,75 por ano.</p>
+    
+    <h2>Características Importantes</h2>
+    <ul>
+        <li><strong>Custo Sem Cliente</strong>: O EVE-NG não requer instalação de software adicional e utiliza uma interface HTML5 para projetar, conectar e gerenciar topologias de rede.</li>
+        <li><strong>Topologia Ativa Modificável</strong>: Assim como o GNS3, você pode modificar as topologias de rede enquanto elas estão em execução ativa.</li>
+        <li><strong>Múltiplos Tipos de Conexão</strong>: O EVE-NG suporta interfaces seriais e Ethernet, útil para tecnologias como Frame Relay.</li>
+        <li><strong>Imagens de Software</strong>: Assim como o GNS3, você precisa obter legalmente imagens de software Cisco IOS compatíveis para usar com o EVE-NG.</li>
+    </ul>
+    
+    <h2>Edições</h2>
+    <ul>
+        <li><strong>Community Edition</strong>: Gratuita e suficiente para se preparar para o CCNA.</li>
+        <li><strong>Professional Edition</strong>: Oferece recursos adicionais, como suporte para vários usuários e configurações de qualidade de link.</li>
+    </ul>
+    
+    <p>Experimente o EVE-NG para criar e testar suas topologias de rede! 😊</p>
+</body>
+</html>
 
-Características Importantes
-Custo Sem Cliente: O EVE-NG não requer instalação de software adicional e utiliza uma interface HTML5 para projetar, conectar e gerenciar topologias de rede.
-Topologia Ativa Modificável: Assim como o GNS3, você pode modificar as topologias de rede enquanto elas estão em execução ativa.
-Múltiplos Tipos de Conexão: O EVE-NG suporta interfaces seriais e Ethernet, útil para tecnologias como Frame Relay.
-Imagens de Software: Assim como o GNS3, você precisa obter legalmente imagens de software Cisco IOS compatíveis para usar com o EVE-NG.
-Edições
-Community Edition: Gratuita e suficiente para se preparar para o CCNA.
-Professional Edition: Oferece recursos adicionais, como suporte para vários usuários e configurações de qualidade de link.
-Experimente o EVE-NG para criar e testar suas topologias de rede! 😊
 
 
 
