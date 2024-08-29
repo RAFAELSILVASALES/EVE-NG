@@ -2,18 +2,20 @@
 
 <img src="https://www.eve-ng.net/wp-content/uploads/2019/11/Screenshot-2019-11-14-at-13.25.02-e1593123597917.png" width="">
 
+EVE-NG (Emulated Virtual Environment Next Generation)
+O EVE-NG é um simulador de rede multi-vendor, semelhante ao VIRL Personal Edition. Ele foi desenvolvido para usuários finais e pequenas empresas. O EVE-NG oferece uma Community Edition gratuita, bem como uma Professional Edition por $110,75 por ano.
 
-
-<br/>
-O EVE-NG (Emulated Virtual Environment Next Generation) é um simulador de rede multi-vendor, semelhante ao VIRL Personal Edition. Ele foi desenvolvido para usuários finais e pequenas empresas. O EVE-NG oferece uma Community Edition gratuita, bem como uma Professional Edition por $110,75 por ano 1. Aqui estão algumas características importantes:
-
+Características Importantes
 Custo Sem Cliente: O EVE-NG não requer instalação de software adicional e utiliza uma interface HTML5 para projetar, conectar e gerenciar topologias de rede.
 Topologia Ativa Modificável: Assim como o GNS3, você pode modificar as topologias de rede enquanto elas estão em execução ativa.
 Múltiplos Tipos de Conexão: O EVE-NG suporta interfaces seriais e Ethernet, útil para tecnologias como Frame Relay.
-Imagens de Software: Assim como o GNS3, você precisa obter legalmente imagens de software Cisco IOS compatíveis para usar com o EVE-NG2.
-A versão Community Edition é gratuita e suficiente para se preparar para o CCNA, enquanto a Professional Edition oferece recursos adicionais, como suporte para vários usuários e configurações de qualidade de link1. Experimente o EVE-NG para criar e testar suas topologias de rede! 😊
+Imagens de Software: Assim como o GNS3, você precisa obter legalmente imagens de software Cisco IOS compatíveis para usar com o EVE-NG.
+Edições
+Community Edition: Gratuita e suficiente para se preparar para o CCNA.
+Professional Edition: Oferece recursos adicionais, como suporte para vários usuários e configurações de qualidade de link.
+Experimente o EVE-NG para criar e testar suas topologias de rede! 😊
 
-<br/>
+
 
 ## EVE
 <p>LINK como o disk disponivel com tudo pronto para usar o eve-ng </p> <a href="https://mega.nz/folder/OBgQlRCD#iozAom8OS0-vQyy5MfaH8Q" target="_blank">Acessar</a></p>
